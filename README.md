@@ -1,7 +1,7 @@
 # dh-pig
 
-- **npm název** : dh-pig
-- **git název** : dh-pig
-- **autor** : Dávid Hezký
-- **popis** : little piggy said "HELLOO WORLD"
+- **npm name** : dh-pig
+- **git name** : dh-pig
+- **author** : David Hezky
+- **description** : little piggy said "HELLOO WORLD"
 ----------
